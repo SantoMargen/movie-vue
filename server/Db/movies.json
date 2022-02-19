@@ -1,0 +1,351 @@
+[
+  {
+    "id": 2,
+    "title": "Venom",
+    "synopsis": "A failed reporter is bonded to an alien entity, one of many symbiotes who have invaded Earth. But the being takes a liking to Earth and decides to protect it.",
+    "trailerUrl": "https://www.imdb.com/video/vi1186773529?playlistId=tt1270797&ref_=tt_pr_ov_vi",
+    "imgUrl": "https://ik.imagekit.io/vldqjlthtc3/Venom-movie_-bcYnJXaZWL.jpg",
+    "rating": 5,
+    "status": "active",
+    "authorId": 1,
+    "genreId": 2
+  },
+  {
+    "id": 3,
+    "title": "Jungle Cruise",
+    "synopsis": "Based on Disneyland's theme park ride where a small riverboat takes a group of travelers through a jungle filled with dangerous animals and reptiles but with a supernatural element.",
+    "trailerUrl": "https://www.imdb.com/video/vi152748057?playlistId=tt0870154&ref_=tt_ov_vi",
+    "imgUrl": "https://ik.imagekit.io/vldqjlthtc3/jungle-cruise-movie_PSA--wwCo.jpg",
+    "rating": 4,
+    "status": "active",
+    "authorId": 1,
+    "genreId": 5
+  },
+  {
+    "id": 4,
+    "title": "Manchester by the Sea\n",
+    "synopsis": "Lee Chandler is a brooding, irritable loner who works as a handyman for a Boston apartment block. One damp winter day he gets a call summoning him to his hometown, north of the city. His brother's heart has given out suddenly, and he's been named guardian to his 16-year-old nephew. As if losing his only sibling and doubts about raising a teenager weren't enough, his return to the past re-opens an unspeakable tragedy",
+    "trailerUrl": "https://www.imdb.com/video/vi967947801?playlistId=tt4034228&ref_=tt_ov_vi",
+    "imgUrl": "https://ik.imagekit.io/vldqjlthtc3/movie2_gqkG3RUZs.jpg",
+    "rating": 4,
+    "status": "active",
+    "authorId": 1,
+    "genreId": 4
+  },
+  {
+    "id": 5,
+    "title": "legend",
+    "synopsis": "The true story of London's most notorious gangsters, twins Reggie and Ronnie Kray. As the brothers rise through the criminal underworld, Ronnie advances the family business with violence and intimidation while Reggie struggles to go legitimate for local girl Frances Shea. In and out of prison, Ronnie's unpredictable tendencies and the slow disintegration of Reggie's marriage threaten to bring the brothers' empire tumbling to the ground.",
+    "trailerUrl": "https://www.imdb.com/video/vi3234116377?playlistId=tt3569230&ref_=tt_ov_vi",
+    "imgUrl": "https://ik.imagekit.io/vldqjlthtc3/movie2_X5W5ge-kVGj.jpg",
+    "rating": 5,
+    "status": "active",
+    "authorId": 1,
+    "genreId": 2
+  },
+  {
+    "id": 6,
+    "title": "Sonic the Hedgehog",
+    "synopsis": "Based on the global blockbuster videogame franchise from Sega, SONIC THE HEDGEHOG tells the story of the world's speediest hedgehog as he embraces his new home on Earth. In this live-action adventure comedy, Sonic and his new best friend Tom (James Marsden) team up to defend the planet from the evil genius Dr. Robotnik (Jim Carrey) and his plans for world domination. The family-friendly film also stars Tika Sumpter and Ben Schwartz as the voice of Sonic.",
+    "trailerUrl": "https://www.imdb.com/video/vi3662921497?playlistId=tt3794354&ref_=tt_pr_ov_vi",
+    "imgUrl": "https://ik.imagekit.io/vldqjlthtc3/movie2_AgWNE0oxK.jpg",
+    "rating": 5,
+    "status": "active",
+    "authorId": 1,
+    "genreId": 3
+  },
+  {
+    "id": 7,
+    "title": "Spider-Man: No Way Home",
+    "synopsis": "Our friendly neighborhood Super Hero decides to join his best friends Ned, MJ, and the rest of the gang on a European vacation. However, Peter's plan to leave super heroics behind for a few weeks are quickly scrapped when he begrudgingly agrees to help Nick Fury uncover the mystery of several elemental creature attacks, creating havoc across the continent.—Sony Pictures Entertainment",
+    "trailerUrl": "https://www.youtube.com/watch?v=rt-2cxAiPJk",
+    "imgUrl": "https://ik.imagekit.io/vldqjlthtc3/movie-spyderman_ZXTAW7E8q.jpg",
+    "rating": 5,
+    "status": "active",
+    "authorId": 1,
+    "genreId": 2
+  },
+  {
+    "id": 8,
+    "title": "Star Wars: The Force Awakens",
+    "synopsis": "While the First Order continues to ravage the galaxy, Rey finalizes her training as a Jedi. But danger suddenly rises from the ashes as the evil Emperor Palpatine mysteriously returns from the dead. While working with Finn and Poe Dameron to fulfill a new mission, Rey will not only face Kylo Ren once more, but she will also finally discover the truth about her parents as well as a deadly secret that could determine her future and the fate of the ultimate final showdown that is to come.",
+    "trailerUrl": "https://www.youtube.com/watch?v=sGbxmsDFVnE",
+    "imgUrl": "https://ik.imagekit.io/vldqjlthtc3/starwars_q-0sEgtXS.jpg",
+    "rating": 5,
+    "status": "active",
+    "authorId": 1,
+    "genreId": 2
+  },
+  {
+    "id": 9,
+    "title": "Transformers: The Last Knight",
+    "synopsis": "Optimus Prime finds his dead home planet, Cybertron, in which he comes to find he was responsible for its destruction. He finds a way to bring Cybertron back to life, but in order to do so, Optimus needs to find an artifact that is on Earth.",
+    "trailerUrl": "https://www.imdb.com/video/vi4102142233?playlistId=tt3371366&ref_=tt_pr_ov_vi",
+    "imgUrl": "https://ik.imagekit.io/vldqjlthtc3/movie-transformers_sqYr9ifLj.jpg",
+    "rating": 5,
+    "status": "active",
+    "authorId": 1,
+    "genreId": 2
+  },
+  {
+    "id": 10,
+    "title": "The Gods Must Be Crazy",
+    "synopsis": "A Sho in the Kalahari desert encounters technology for the first time--in the shape of a Coke bottle. He takes it back to his people, and they use it for many tasks. The people start to fight over it, so he decides to return it to the God--where he thinks it came from. Meanwhile, we are introduced to a clumsy biologist, a schoolteacher assigned to a small village, and a despotic revolutionary.",
+    "trailerUrl": "https://www.imdb.com/video/vi293782297?playlistId=tt0080801&ref_=tt_ov_vi",
+    "imgUrl": "https://ik.imagekit.io/vldqjlthtc3/mustbe-crazy-movie_SzEC2d8tW.jpg",
+    "rating": 5,
+    "status": "active",
+    "authorId": 1,
+    "genreId": 5
+  },
+  {
+    "id": 11,
+    "title": "Palm Springs",
+    "synopsis": "While stuck at a wedding in Palm Springs, Nyles (Andy Samberg) meets Sarah (Cristin Milioti), the maid of honor and family black sheep. After he rescues her from a disastrous toast, Sarah becomes drawn to Nyles and his offbeat nihilism. But when their impromptu tryst is thwarted by a surreal interruption, Sarah must join Nyles in embracing the idea that nothing really matters, and they begin wreaking spirited havoc on the wedding celebration.",
+    "trailerUrl": "https://www.imdb.com/video/vi4230397465?playlistId=tt9484998&ref_=tt_ov_vi",
+    "imgUrl": "https://ik.imagekit.io/vldqjlthtc3/mustbe-crazy-movie_U9prhc9PM.jpg",
+    "rating": 5,
+    "status": "active",
+    "authorId": 1,
+    "genreId": 4
+  },
+  {
+    "id": 12,
+    "title": "Palm Dunkik (2017)",
+    "synopsis": "May/June 1940. Four hundred thousand British and French soldiers are hole up in the French port town of Dunkirk. The only way out is via sea, and the Germans have air superiority, bombing the British soldiers and ships without much opposition. The situation looks dire and, in desperation, Britain sends civilian boats in addition to its hard-pressed Navy to try to evacuate the beleaguered forces. This is that story, seen through the eyes of a soldier amongst those trapped forces, two Royal Air Force fighter pilots, and a group of civilians on their boat, part of the evacuation fleet.",
+    "trailerUrl": "https://www.imdb.com/video/vi3402283289?playlistId=tt5013056&ref_=tt_pr_ov_vi",
+    "imgUrl": "https://ik.imagekit.io/vldqjlthtc3/dunkirk_vTXZJGDRY.jpg",
+    "rating": 5,
+    "status": "active",
+    "authorId": 1,
+    "genreId": 2
+  },
+  {
+    "id": 13,
+    "title": "Dunkik (2017)",
+    "synopsis": "May/June 1940. Four hundred thousand British and French soldiers are hole up in the French port town of Dunkirk. The only way out is via sea, and the Germans have air superiority, bombing the British soldiers and ships without much opposition. The situation looks dire and, in desperation, Britain sends civilian boats in addition to its hard-pressed Navy to try to evacuate the beleaguered forces. This is that story, seen through the eyes of a soldier amongst those trapped forces, two Royal Air Force fighter pilots, and a group of civilians on their boat, part of the evacuation fleet.",
+    "trailerUrl": "https://www.imdb.com/video/vi3402283289?playlistId=tt5013056&ref_=tt_pr_ov_vi",
+    "imgUrl": "https://ik.imagekit.io/vldqjlthtc3/dunkirk_GbV_HVBaJze.jpg",
+    "rating": 5,
+    "status": "active",
+    "authorId": 1,
+    "genreId": 2
+  },
+  {
+    "id": 14,
+    "title": "Dunkik (2017)-",
+    "synopsis": "May/June 1940. Four hundred thousand British and French soldiers are hole up in the French port town of Dunkirk. The only way out is via sea, and the Germans have air superiority, bombing the British soldiers and ships without much opposition. The situation looks dire and, in desperation, Britain sends civilian boats in addition to its hard-pressed Navy to try to evacuate the beleaguered forces. This is that story, seen through the eyes of a soldier amongst those trapped forces, two Royal Air Force fighter pilots, and a group of civilians on their boat, part of the evacuation fleet.",
+    "trailerUrl": "https://www.imdb.com/video/vi3402283289?playlistId=tt5013056&ref_=tt_pr_ov_vi",
+    "imgUrl": "https://ik.imagekit.io/vldqjlthtc3/dunkirk_olvx68ig6.jpg",
+    "rating": 5,
+    "status": "active",
+    "authorId": 1,
+    "genreId": 2
+  },
+  {
+    "id": 15,
+    "title": "Dunkik (2017) sample",
+    "synopsis": "May/June 1940. Four hundred thousand British and French soldiers are hole up in the French port town of Dunkirk. The only way out is via sea, and the Germans have air superiority, bombing the British soldiers and ships without much opposition. The situation looks dire and, in desperation, Britain sends civilian boats in addition to its hard-pressed Navy to try to evacuate the beleaguered forces. This is that story, seen through the eyes of a soldier amongst those trapped forces, two Royal Air Force fighter pilots, and a group of civilians on their boat, part of the evacuation fleet.",
+    "trailerUrl": "https://www.imdb.com/video/vi3402283289?playlistId=tt5013056&ref_=tt_pr_ov_vi",
+    "imgUrl": "https://ik.imagekit.io/vldqjlthtc3/dunkirk_LxTcMQsfB.jpg",
+    "rating": 5,
+    "status": "active",
+    "authorId": 1,
+    "genreId": 2
+  },
+  {
+    "id": 17,
+    "title": "Dunkik (2017) test",
+    "synopsis": "May/June 1940. Four hundred thousand British and French soldiers are hole up in the French port town of Dunkirk. The only way out is via sea, and the Germans have air superiority, bombing the British soldiers and ships without much opposition. The situation looks dire and, in desperation, Britain sends civilian boats in addition to its hard-pressed Navy to try to evacuate the beleaguered forces. This is that story, seen through the eyes of a soldier amongst those trapped forces, two Royal Air Force fighter pilots, and a group of civilians on their boat, part of the evacuation fleet.",
+    "trailerUrl": "https://www.imdb.com/video/vi3402283289?playlistId=tt5013056&ref_=tt_pr_ov_vi",
+    "imgUrl": "https://ik.imagekit.io/vldqjlthtc3/dunkirk_cgjldCQeF15.jpg",
+    "rating": 5,
+    "status": "active",
+    "authorId": 1,
+    "genreId": 2
+  },
+  {
+    "id": 18,
+    "title": "Testing",
+    "synopsis": "May/June 1940. Four hundred thousand British and French soldiers are hole up in the French port town of Dunkirk. The only way out is via sea, and the Germans have air superiority, bombing the British soldiers and ships without much opposition. The situation looks dire and, in desperation, Britain sends civilian boats in addition to its hard-pressed Navy to try to evacuate the beleaguered forces. This is that story, seen through the eyes of a soldier amongst those trapped forces, two Royal Air Force fighter pilots, and a group of civilians on their boat, part of the evacuation fleet.",
+    "trailerUrl": "https://www.imdb.com/video/vi3402283289?playlistId=tt5013056&ref_=tt_pr_ov_vi",
+    "imgUrl": "https://ik.imagekit.io/vldqjlthtc3/dunkirk_R7S4syAOK.jpg",
+    "rating": 5,
+    "status": "active",
+    "authorId": 1,
+    "genreId": 1
+  },
+  {
+    "id": 19,
+    "title": "Testing1",
+    "synopsis": "May/June 1940. Four hundred thousand British and French soldiers are hole up in the French port town of Dunkirk. The only way out is via sea, and the Germans have air superiority, bombing the British soldiers and ships without much opposition. The situation looks dire and, in desperation, Britain sends civilian boats in addition to its hard-pressed Navy to try to evacuate the beleaguered forces. This is that story, seen through the eyes of a soldier amongst those trapped forces, two Royal Air Force fighter pilots, and a group of civilians on their boat, part of the evacuation fleet.",
+    "trailerUrl": "https://www.imdb.com/video/vi3402283289?playlistId=tt5013056&ref_=tt_pr_ov_vi",
+    "imgUrl": "https://ik.imagekit.io/vldqjlthtc3/dunkirk_V8kSlHr2E.jpg",
+    "rating": 5,
+    "status": "active",
+    "authorId": 1,
+    "genreId": 3
+  },
+  {
+    "id": 20,
+    "title": "Testing2",
+    "synopsis": "May/June 1940. Four hundred thousand British and French soldiers are hole up in the French port town of Dunkirk. The only way out is via sea, and the Germans have air superiority, bombing the British soldiers and ships without much opposition. The situation looks dire and, in desperation, Britain sends civilian boats in addition to its hard-pressed Navy to try to evacuate the beleaguered forces. This is that story, seen through the eyes of a soldier amongst those trapped forces, two Royal Air Force fighter pilots, and a group of civilians on their boat, part of the evacuation fleet.",
+    "trailerUrl": "https://www.imdb.com/video/vi3402283289?playlistId=tt5013056&ref_=tt_pr_ov_vi",
+    "imgUrl": "https://ik.imagekit.io/vldqjlthtc3/mustbe-crazy-movie_ImcWTKAhD.jpg",
+    "rating": 5,
+    "status": "active",
+    "authorId": 1,
+    "genreId": 3
+  },
+  {
+    "id": 21,
+    "title": "Testing3",
+    "synopsis": "May/June 1940. Four hundred thousand British and French soldiers are hole up in the French port town of Dunkirk. The only way out is via sea, and the Germans have air superiority, bombing the British soldiers and ships without much opposition. The situation looks dire and, in desperation, Britain sends civilian boats in addition to its hard-pressed Navy to try to evacuate the beleaguered forces. This is that story, seen through the eyes of a soldier amongst those trapped forces, two Royal Air Force fighter pilots, and a group of civilians on their boat, part of the evacuation fleet.",
+    "trailerUrl": "https://www.imdb.com/video/vi3402283289?playlistId=tt5013056&ref_=tt_pr_ov_vi",
+    "imgUrl": "https://ik.imagekit.io/vldqjlthtc3/mustbe-crazy-movie_Xo9iqAB89.jpg",
+    "rating": 5,
+    "status": "active",
+    "authorId": 1,
+    "genreId": 4
+  },
+  {
+    "id": 23,
+    "title": "Testing5",
+    "synopsis": "May/June 1940. Four hundred thousand British and French soldiers are hole up in the French port town of Dunkirk. The only way out is via sea, and the Germans have air superiority, bombing the British soldiers and ships without much opposition. The situation looks dire and, in desperation, Britain sends civilian boats in addition to its hard-pressed Navy to try to evacuate the beleaguered forces. This is that story, seen through the eyes of a soldier amongst those trapped forces, two Royal Air Force fighter pilots, and a group of civilians on their boat, part of the evacuation fleet.",
+    "trailerUrl": "https://www.imdb.com/video/vi3402283289?playlistId=tt5013056&ref_=tt_pr_ov_vi",
+    "imgUrl": "https://ik.imagekit.io/vldqjlthtc3/Venom-movie_K15tBWMl8.jpg",
+    "rating": 5,
+    "status": "active",
+    "authorId": 1,
+    "genreId": 6
+  },
+  {
+    "id": 24,
+    "title": "Testing6",
+    "synopsis": "May/June 1940. Four hundred thousand British and French soldiers are hole up in the French port town of Dunkirk. The only way out is via sea, and the Germans have air superiority, bombing the British soldiers and ships without much opposition. The situation looks dire and, in desperation, Britain sends civilian boats in addition to its hard-pressed Navy to try to evacuate the beleaguered forces. This is that story, seen through the eyes of a soldier amongst those trapped forces, two Royal Air Force fighter pilots, and a group of civilians on their boat, part of the evacuation fleet.",
+    "trailerUrl": "https://www.imdb.com/video/vi3402283289?playlistId=tt5013056&ref_=tt_pr_ov_vi",
+    "imgUrl": "https://ik.imagekit.io/vldqjlthtc3/Venom-movie_g_O4-7CN4.jpg",
+    "rating": 5,
+    "status": "active",
+    "authorId": 1,
+    "genreId": 5
+  },
+  {
+    "id": 27,
+    "title": "Testing7",
+    "synopsis": "May/June 1940. Four hundred thousand British and French soldiers are hole up in the French port town of Dunkirk. The only way out is via sea, and the Germans have air superiority, bombing the British soldiers and ships without much opposition. The situation looks dire and, in desperation, Britain sends civilian boats in addition to its hard-pressed Navy to try to evacuate the beleaguered forces. This is that story, seen through the eyes of a soldier amongst those trapped forces, two Royal Air Force fighter pilots, and a group of civilians on their boat, part of the evacuation fleet.",
+    "trailerUrl": "https://www.imdb.com/video/vi3402283289?playlistId=tt5013056&ref_=tt_pr_ov_vi",
+    "imgUrl": "https://ik.imagekit.io/vldqjlthtc3/Venom-movie_8MP9ODg9Q.jpg",
+    "rating": 5,
+    "status": "active",
+    "authorId": 1,
+    "genreId": 1
+  },
+  {
+    "id": 28,
+    "title": "Testing8",
+    "synopsis": "May/June 1940. Four hundred thousand British and French soldiers are hole up in the French port town of Dunkirk. The only way out is via sea, and the Germans have air superiority, bombing the British soldiers and ships without much opposition. The situation looks dire and, in desperation, Britain sends civilian boats in addition to its hard-pressed Navy to try to evacuate the beleaguered forces. This is that story, seen through the eyes of a soldier amongst those trapped forces, two Royal Air Force fighter pilots, and a group of civilians on their boat, part of the evacuation fleet.",
+    "trailerUrl": "https://www.imdb.com/video/vi3402283289?playlistId=tt5013056&ref_=tt_pr_ov_vi",
+    "imgUrl": "https://ik.imagekit.io/vldqjlthtc3/movie-legend_m0e56-rg2rv.jpg",
+    "rating": 5,
+    "status": "active",
+    "authorId": 1,
+    "genreId": 1
+  },
+  {
+    "id": 29,
+    "title": "Testing9",
+    "synopsis": "May/June 1940. Four hundred thousand British and French soldiers are hole up in the French port town of Dunkirk. The only way out is via sea, and the Germans have air superiority, bombing the British soldiers and ships without much opposition. The situation looks dire and, in desperation, Britain sends civilian boats in addition to its hard-pressed Navy to try to evacuate the beleaguered forces. This is that story, seen through the eyes of a soldier amongst those trapped forces, two Royal Air Force fighter pilots, and a group of civilians on their boat, part of the evacuation fleet.",
+    "trailerUrl": "https://www.imdb.com/video/vi3402283289?playlistId=tt5013056&ref_=tt_pr_ov_vi",
+    "imgUrl": "https://ik.imagekit.io/vldqjlthtc3/movie-sonic_HEynQ66K1.jpg",
+    "rating": 5,
+    "status": "active",
+    "authorId": 1,
+    "genreId": 1
+  },
+  {
+    "id": 22,
+    "title": "Sonic the Hedgehog (2020)",
+    "synopsis": "After discovering a small, blue, fast hedgehog, a small-town police officer must help him defeat an evil genius who wants to do experiments on him.",
+    "trailerUrl": "https://www.youtube.com/watch?v=szby7ZHLnkA",
+    "imgUrl": "https://ik.imagekit.io/vldqjlthtc3/movie-sonic_KbAARSNtT.jpg",
+    "rating": 4,
+    "status": "active",
+    "authorId": 1,
+    "genreId": 3
+  },
+  {
+    "id": 1,
+    "title": "Venom--",
+    "synopsis": "A failed reporter is bonded to an alien entity, one of many symbiotes who have invaded Earth. But the being takes a liking to Earth and decides to protect it.",
+    "trailerUrl": "https://www.imdb.com/video/vi1186773529?playlistId=tt1270797&ref_=tt_pr_ov_vi",
+    "imgUrl": "https://ik.imagekit.io/vldqjlthtc3/Venom-movie_xoqWXGp-5.jpg",
+    "rating": 5,
+    "status": "active",
+    "authorId": 1,
+    "genreId": 2
+  },
+  {
+    "id": 31,
+    "title": "Venom-a",
+    "synopsis": "A failed reporter is bonded to an alien entity, one of many symbiotes who have invaded Earth. But the being takes a liking to Earth and decides to protect it.",
+    "trailerUrl": "https://www.imdb.com/video/vi1186773529?playlistId=tt1270797&ref_=tt_pr_ov_vi",
+    "imgUrl": "https://ik.imagekit.io/vldqjlthtc3/Venom-movie_EbM-g8Gcu.jpg",
+    "rating": 5,
+    "status": "active",
+    "authorId": 2,
+    "genreId": 2,
+    "createdAt": "2021-11-10T15:08:17.522Z",
+    "updatedAt": "2021-11-10T15:08:17.522Z",
+    "Genre": {
+      "name": "Action"
+    },
+    "User": {
+      "username": "user2"
+    }
+  },
+  {
+    "id": 32,
+    "title": "Avengers: Endgame (2019)",
+    "synopsis": "A failed reporter is bonded to an alien entity, one of many symbiotes who have invaded Earth. But the being takes a liking to Earth and decides to protect it.",
+    "trailerUrl": "https://www.imdb.com/video/vi1186773529?playlistId=tt1270797&ref_=tt_pr_ov_vi",
+    "imgUrl": "https://ik.imagekit.io/vldqjlthtc3/TheAvengers2012Poster_cUid9BEp5M.jpg",
+    "rating": 4,
+    "status": "active",
+    "authorId": 2,
+    "genreId": 6
+  },
+  {
+    "id": 33,
+    "title": "The Dark Knight",
+    "synopsis": "A failed reporter is bonded to an alien entity, one of many symbiotes who have invaded Earth. But the being takes a liking to Earth and decides to protect it.",
+    "trailerUrl": "https://www.imdb.com/video/vi1186773529?playlistId=tt1270797&ref_=tt_pr_ov_vi",
+    "imgUrl": "https://ik.imagekit.io/vldqjlthtc3/TheAvengers2012Poster_3tSWA69MH.jpg",
+    "rating": 4,
+    "status": "active",
+    "authorId": 2,
+    "genreId": 2
+  },
+  {
+    "id": 34,
+    "title": "Superman: Man of Steel",
+    "synopsis": "A failed reporter is bonded to an alien entity, one of many symbiotes who have invaded Earth. But the being takes a liking to Earth and decides to protect it.",
+    "trailerUrl": "https://www.imdb.com/video/vi1186773529?playlistId=tt1270797&ref_=tt_pr_ov_vi",
+    "imgUrl": "https://ik.imagekit.io/vldqjlthtc3/superman-man-of-steel_1yrXsdGOA.jpg",
+    "rating": 4,
+    "status": "active",
+    "authorId": 2,
+    "genreId": 2
+  },
+  {
+    "id": 35,
+    "title": "The Hobbit: An Unexpected Journey",
+    "synopsis": "A failed reporter is bonded to an alien entity, one of many symbiotes who have invaded Earth. But the being takes a liking to Earth and decides to protect it.",
+    "trailerUrl": "https://www.imdb.com/video/vi1186773529?playlistId=tt1270797&ref_=tt_pr_ov_vi",
+    "imgUrl": "https://ik.imagekit.io/vldqjlthtc3/the_hoobit_oRE311tcG.jpg",
+    "rating": 5,
+    "status": "active",
+    "authorId": 2,
+    "genreId": 3
+  }
+]
